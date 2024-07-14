@@ -34,13 +34,13 @@
 <p align="center"> Quer falar comigo sobre algo ou apenas bater um papo? Tente os seguintes contatos: </p>
 <div align="center">
 <a href="https://www.instagram.com/riukinhoo/">
-  <img src="https://img.shields.io/badge/-@riukinhoo-fe428e?logo=instagram&logoColor=white" alt="Instagram Badge" />
+  <img src="https://img.shields.io/badge/-@riukinhoo-3f729b?logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
 <a href="https://www.linkedin.com/in/harrison-leandro-a84820252/">
-  <img src="https://img.shields.io/badge/-Harrison%20Leandro-6614D9?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+  <img src="https://img.shields.io/badge/-Harrison%20Leandro-0e76a8?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a>
 <br/>
 <a href="mailto:harrisonleandro2022@gmail.com">
-  <img src="https://img.shields.io/badge/-harrisonleandro@gmail.com-fe428e?logo=gmail&logoColor=white" alt="Gmail Badge" />
+  <img src="https://img.shields.io/badge/-harrisonleandro@gmail.com-db4a39?logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>
 </div>
