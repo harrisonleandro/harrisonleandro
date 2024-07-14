@@ -1,5 +1,5 @@
 
-<img src="https://www.gifcen.com/wp-content/uploads/2022/02/among-us-gif-4.gif" width="100px" align="right"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhwcWdpeDV4OHpkNXc2cjF0NnM1NGl4NDFjaGd0M3dmYjMwdzhreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="100px" align="right"/>
 <h1>Olá 👋 </h1>
 <p align="center">Me chamo Harrison. Um jovem apaixonado por tecnologia, musica e videogames. Como posso lhe ajudar?</p>
 
