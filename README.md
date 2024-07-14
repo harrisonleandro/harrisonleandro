@@ -8,8 +8,8 @@
 <table border="0">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonleandro&hide_progress=false&theme=radical" width="470px" /><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=harrisonleandro&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonleandro&hide_progress=false&theme=tokyonight" width="470px" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=harrisonleandro&show_icons=true&theme=tokyonight" />
 </td>
 
 <td>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/-@riukinhoo-fe428e?logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
 <a href="https://www.linkedin.com/in/harrison-leandro-a84820252/">
-  <img src="https://img.shields.io/badge/-Harrison%20Leandro-fe428e?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
+  <img src="https://img.shields.io/badge/-Harrison%20Leandro-6614D9?logo=linkedin&logoColor=white" alt="Linkedin Badge" />
 </a>
 <br/>
 <a href="mailto:harrisonleandro2022@gmail.com">
