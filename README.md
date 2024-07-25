@@ -1,7 +1,7 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhwcWdpeDV4OHpkNXc2cjF0NnM1NGl4NDFjaGd0M3dmYjMwdzhreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="100px" align="right"/>
 <h1>Hello 👋 </h1>
-<p align="center">My name is Harrison. A young man passionate about technology, music and video games. How can I help you?</p>
+<p align="center">My name is Harrison, but also known as Riuk. A young man passionate about technology, music and video games. How can I help you?</p>
 
 <hr/>
 
