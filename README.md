@@ -43,6 +43,6 @@
 </a>
 <br/>
 <a href="mailto:harrisonleandro2022@gmail.com">
-  <img src="https://img.shields.io/badge/-harrisonleandro@gmail.com-db4a39?logo=gmail&logoColor=white" alt="Gmail Badge" />
+  <img src="https://img.shields.io/badge/-harrisonleandro2022@gmail.com-db4a39?logo=gmail&logoColor=white" alt="Gmail Badge" />
 </a>
 </div>
