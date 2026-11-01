@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Harrison Leandro — Desenvolvedor de Software</title>
+  <desc id="desc">Construindo soluções. Evoluindo a cada linha de código.</desc>
+
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#21262D" />
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0D1117" stop-opacity="1" />
+      <stop offset="0.55" stop-color="#0D1117" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F81F7" />
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="card">
+      <rect width="1200" height="340" rx="16" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#0D1117" />
+    <rect width="1200" height="340" fill="url(#dots)" />
+    <rect width="820" height="340" fill="url(#fade)" />
+
+    <!-- Grafo discreto: componentes conectados, uma referência a sistemas e integração -->
+    <g stroke="#1F6FEB" stroke-width="1.5" stroke-opacity="0.45" fill="none">
+      <line x1="870" y1="110" x2="985" y2="72" />
+      <line x1="985" y1="72" x2="1090" y2="128" />
+      <line x1="870" y1="110" x2="960" y2="190" />
+      <line x1="960" y1="190" x2="1090" y2="128" />
+      <line x1="960" y1="190" x2="1060" y2="250" />
+      <line x1="960" y1="190" x2="880" y2="268" />
+      <line x1="880" y1="268" x2="1060" y2="250" />
+      <line x1="1090" y1="128" x2="1135" y2="205" />
+      <line x1="1060" y1="250" x2="1135" y2="205" />
+    </g>
+    <g fill="#0D1117" stroke="#2F81F7" stroke-width="2">
+      <circle cx="870" cy="110" r="6" />
+      <circle cx="985" cy="72" r="6" />
+      <circle cx="1090" cy="128" r="6" />
+      <circle cx="1060" cy="250" r="6" />
+      <circle cx="880" cy="268" r="6" />
+      <circle cx="1135" cy="205" r="6" />
+    </g>
+    <circle cx="960" cy="190" r="20" fill="none" stroke="#2F81F7" stroke-opacity="0.25" stroke-width="2" />
+    <circle cx="960" cy="190" r="9" fill="#2F81F7" />
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="16" fill="none" stroke="#30363D" />
+
+  <text x="72" y="96" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#7D8590">~/harrisonleandro <tspan fill="#58A6FF">$</tspan> whoami</text>
+  <text x="72" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#E6EDF3">Harrison Leandro</text>
+  <text x="72" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#58A6FF">Desenvolvedor de Software</text>
+  <rect x="72" y="248" width="140" height="3" rx="1.5" fill="url(#accent)" />
+  <text x="72" y="292" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="22" fill="#8B949E">Construindo soluções. Evoluindo a cada linha de código.</text>
+</svg>
