@@ -73,8 +73,9 @@ Conversor de esquemáticos do Minecraft: transforma arquivos Sponge Schematic (`
 
 ### Evolução
 
-| Período | Etapa | Repositórios |
+| Período | Etapa | Onde ver |
 | --- | --- | --- |
+| **2026** | Fundação da Orider e desenvolvimento dos primeiros produtos comerciais | [orider.com.br](https://orider.com.br) |
 | **2026** | Aplicação Java com arquitetura modular, testes, CI e distribuição | [SchemToCreate](https://github.com/harrisonleandro/SchemToCreate) |
 | **2024 – 2025** | Projetos web próprios e site publicado no GitHub Pages | [meu-site](https://github.com/harrisonleandro/meu-site) ([online](https://harrisonleandro.github.io/meu-site/)) · [projeto-horario](https://github.com/harrisonleandro/projeto-horario) · [projeto-verificador-de-idade](https://github.com/harrisonleandro/projeto-verificador-de-idade) · [projeto-login](https://github.com/harrisonleandro/projeto-login) |
 | **2024** | Fundamentos de HTML5, CSS3 e JavaScript (Curso em Vídeo) | [html-css](https://github.com/harrisonleandro/html-css) · [javascript](https://github.com/harrisonleandro/javascript) |
