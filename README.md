@@ -13,6 +13,7 @@ Sou desenvolvedor de software e gosto de entender um problema por inteiro antes 
 
 Meu foco atual está em arquitetura de sistemas, integração entre serviços e inteligência artificial aplicada, em especial sistemas baseados em agentes. Uso este GitHub como portfólio e como registro da minha evolução: cada repositório marca uma etapa do caminho.
 
+- **Fundador e desenvolvedor da [Orider](https://orider.com.br):** programas de gestão para pequenos negócios
 - **Foco atual:** arquitetura de sistemas, APIs e IA aplicada
 - **Projeto aberto mais recente:** [SchemToCreate](https://github.com/harrisonleandro/SchemToCreate)
 - **Localização:** Brasil
@@ -47,6 +48,18 @@ Meu foco atual está em arquitetura de sistemas, integração entre serviços e 
 
 ## Projetos em destaque
 
+### [Orider](https://orider.com.br)
+
+Fundei e desenvolvo a Orider, que cria programas de gestão para pequenos negócios. Os sistemas abrem no navegador, e os de balcão também podem ser instalados no computador.
+
+| Produto | Para quem |
+| --- | --- |
+| **[SaborFlow](https://orider.com.br/saborflow)** | Restaurantes, lanchonetes e cafeterias: pedidos, PDV, mesas, cardápio e estoque |
+| **[AtelieSmart](https://orider.com.br/ateliesmart)** | Ateliês de costura: clientes, orçamentos, ordens de serviço e estoque de insumos |
+| **[Finager](https://orider.com.br/finager)** | Controle financeiro pessoal e da empresa, em espaços separados |
+
+`Produto comercial` `Código fechado` · [orider.com.br](https://orider.com.br)
+
 ### [SchemToCreate](https://github.com/harrisonleandro/SchemToCreate)
 
 Conversor de esquemáticos do Minecraft: transforma arquivos Sponge Schematic (`.schem`), gerados pelo WorldEdit, em estruturas (`.nbt`) compatíveis com o mod Create. Funciona offline, como aplicativo desktop ou pela linha de comando.
@@ -66,7 +79,7 @@ Conversor de esquemáticos do Minecraft: transforma arquivos Sponge Schematic (`
 | **2024 – 2025** | Projetos web próprios e site publicado no GitHub Pages | [meu-site](https://github.com/harrisonleandro/meu-site) ([online](https://harrisonleandro.github.io/meu-site/)) · [projeto-horario](https://github.com/harrisonleandro/projeto-horario) · [projeto-verificador-de-idade](https://github.com/harrisonleandro/projeto-verificador-de-idade) · [projeto-login](https://github.com/harrisonleandro/projeto-login) |
 | **2024** | Fundamentos de HTML5, CSS3 e JavaScript (Curso em Vídeo) | [html-css](https://github.com/harrisonleandro/html-css) · [javascript](https://github.com/harrisonleandro/javascript) |
 
-<sub>Também desenvolvo projetos pessoais e comerciais de código fechado. Eles não são publicados aqui por envolverem propriedade intelectual ou informações internas.</sub>
+<sub>O código dos produtos da Orider e de outros projetos pessoais é fechado e não é publicado aqui, por envolver propriedade intelectual e informações internas.</sub>
 
 ---
 
